@@ -1,10 +1,14 @@
 package com2;
 
 public class Perro {
-  public String guau(){
-    return "Miau";
-  }
+
+	
+	public String guau() {
+		return "Guau";
+	}
+
   
-  public void caminar(){
-  }
+	public void caminar(){
+	}
+
 }
